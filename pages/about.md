@@ -1,7 +1,7 @@
 ---
-title: About
+title: A Strange Library of Small Things
 layout: about
-permalink: /about.html
+permalink: https://gracekuhlman.github.io/Mini-Books-Final/about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This digital library includes a curated selection of twenty-nine miniature books drawn from the Lilly Library’s infamous miniatures collection—one of the largest in the world. The core of the Lilly’s collection is Ruth E. Adomeit’s mighty assemblage of miniature books, donated to the Lilly after her death in the early 1990s. The Lilly’s collection of miniatures (and the pieces gathered here) descends directly from Adomeit’s personal collection, which itself demonstrates a sweeping breadth of the book as an object. Adomeit—an Ohio schoolteacher with a hybrid collecting and travelling bug—collected miniature books indiscriminately wherever she went, embracing book arts in all their forms, folds, gizmos and gadgets.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+We hardly pause to consider that our engagement with a book extends beyond the text itself. Every reading encounter is also a physical one. Imagine searching for a title and discovering it materializes not as a brick-thick codex but as a thin, oversized picture-book-like object. Or recall the small, inevitable spark of joy that comes from opening a pop-up book. The book’s body shapes our experience as much as its words—we just don’t notice it.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Miniature books, by definition, defy conventional expectations of scale—becoming a fraction (or a fraction of a fraction) of what we think a “normal” book should be. But the twenty-nine books showcased here push that defiance even further. They are not only miniature books; many are also artists’ books and/or movable books. They incorporate sculptural structures, unique custom enclosures, and other multisensory features that invite the “reader” to engage with a book as an interactive piece of art, combining the ways in which we interact with these two (normally) distinct media types.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Foundationally, this project aims to convey the uniqueness and artistry of these items housed at the Lilly through metadata and detailed visual documentation. But more importantly, it seeks to nudge (or gently shove) the viewer toward an expanded understanding of what a book can be—an object, an artwork, an experience, something in between? The best part is: there doesn’t have to be an answer.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
