@@ -22,10 +22,10 @@ source-code: https://github.com/gracekuhlman/collectionbuilder-mini-books-final
 # title of site appears in banner
 title: A Strange Library of Small Things
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Where books shrink and worlds expand.
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection seeks to nudge (or gently shove) the viewer toward an expanded understanding of what a book can be: an object, an artwork, an experience, or something in-between?"
+description: "With his collection, I seek to nudge (or lightly shove) viewers toward an expanded understanding of what a book can look like."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Kuhlman
 
