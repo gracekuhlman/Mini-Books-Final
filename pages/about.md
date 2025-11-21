@@ -1,7 +1,7 @@
 ---
 title: A Strange Library of Small Things
 layout: about
-permalink: https://gracekuhlman.github.io/Mini-Books-Final/about.html
+permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
