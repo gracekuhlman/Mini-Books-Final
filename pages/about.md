@@ -22,3 +22,12 @@ Miniature books, by definition, defy conventional expectations of scale—becomi
 
 Foundationally, this project aims to convey the uniqueness and artistry of these items housed at the Lilly through metadata and detailed visual documentation. But more importantly, it seeks to nudge (or gently shove) the viewer toward an expanded understanding of what a book can be—an object, an artwork, an experience, something in between? The best part is: there doesn’t have to be an answer.
 
+## Rights and Permissions
+
+The sources are all owned by the Lilly Library who has official rights to the sources.
+
+## About the Project
+
+This site was created by Lorrainna (Rae) Davis for the ILS-Z 652 Digital Libraries final project. 
+
+Special thanks to Rae Davis, and Hannah Kish, the Digitization Team at the Lilly Library, for taking the photos displayed for this project.
