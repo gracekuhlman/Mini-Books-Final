@@ -6,10 +6,8 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
----
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This digital library includes a curated selection of twenty-nine miniature books drawn from the Lilly Library’s infamous miniatures collection—one of the largest in the world. The core of the Lilly’s collection is Ruth E. Adomeit’s mighty assemblage of miniature books, donated to the Lilly after her death in the early 1990s. The Lilly’s collection of miniatures (and the pieces gathered here) descends directly from Adomeit’s personal collection, which itself demonstrates a sweeping breadth of the book as an object. Adomeit—-an Ohio schoolteacher with a hybrid collecting and travelling bug—-collected miniature books indiscriminately wherever she went, embracing the book arts in all its forms, folds, gizmos and gadgets.
