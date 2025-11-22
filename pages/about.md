@@ -28,6 +28,6 @@ The sources are all owned by the Lilly Library who has official rights to the so
 
 ## About the Project
 
-This site was created by Lorrainna (Rae) Davis for the ILS-Z 652 Digital Libraries final project. 
+This site was created by Grace Kuhlman for the ILS-Z 652 Digital Libraries final project. 
 
-Special thanks to Rae Davis, the Digitization Assistant at the Lilly Library, for taking the photos displayed for this project.
+Special thanks to Rae Davis, the Digitization Assistant at the Lilly Library, for taking and editing the photos used for this project.
