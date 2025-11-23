@@ -17,7 +17,7 @@ We rarely pause to consider that our engagement with a book extends beyond the t
 
 Miniature books, by definition, defy conventional expectations of scale—becoming a fraction (or a fraction of a fraction) of what we think the scale of a “normal” book should be. But the twenty-nine books showcased here push that defiance even further. These minis are also artists’ books and/or movable books. They incorporate sculptural structures, unique custom enclosures, and other multisensory features that invite the “reader” to engage with a book as an interactive piece of art, combining the ways in which we interact with these two (normally) distinct media types.
 
-Foundationally, this project aims to convey the uniqueness and artistry of these items through metadata and detailed visual documentation. But more importantly, it seeks to nudge (or lightly shove) the viewer toward an expanded understanding of what a book can be: an object, a piece of art, an experience, or something in between.
+Foundationally, this project aims to convey the uniqueness and artistry of these items through metadata and detailed visual documentation. But more importantly, it seeks to nudge (or lightly shove) the viewer toward an expanded understanding of what a book can be -- an object, a piece of art, an experience, or something in between.
 
 ## Rights and Permissions
 
